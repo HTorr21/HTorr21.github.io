@@ -1,12 +1,12 @@
 :root {
-	--wheatonBlue: #1174B8;
+	--electricviolet: #Bf29f1;
 	--wheatonTeal: #02857E;
 	--wheatonYellow: #FFCB4E;
-	--pageBackground: #F8F8F8;
-	--wheatonTeal: #02857E;
+	--pageBackground: #2D182D;
+	--wheatonTeal: #F383F3;
 	--heroBackgroundColor: #444444;
-	--heroTextColor:  #FFFFFF;
-	--textColor:  #333333;
+	--heroTextColor:  #E2ACE2;
+	--textColor:  #FBE0FB;
 }
 
 html {
@@ -43,7 +43,7 @@ div.navMenu {
 p.navMenuItem {
 	font-family: Arial, sans-serif;
 	font-size: 24px;
-	color: var(--wheatonBlue);
+	color: var(--electricviolet);
 }
 
 a.navMenuLink {
@@ -137,7 +137,7 @@ div.smallImageDiv {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-color: var(--wheatonBlue);
+	background-color: var(--electricviolet);
 	overflow: hidden;
 }
 
@@ -175,7 +175,7 @@ div.assignmentsGrid {
 div.assignmentsThumbnail {
 	width: 256px;
 	height: 256px;
-	background-color: var(--wheatonBlue);
+	background-color: var(--electricviolet);
 	display: flex;
 	justify-content: center;
 	align-items: center;
